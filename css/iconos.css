@@ -1,0 +1,14 @@
+.home_24{background-image:url(../img/icon_24/home_24.png) !important;}
+.btnadd{background-image:url(../img/icon_24/btnadd.png) !important;}
+.pencil24{background-image:url(../img/icon_24/pencil24.png) !important;}
+.DeleteRed{background-image:url(../img/icon_24/DeleteRed.png) !important;}
+.save24{background-image:url(../img/icon_24/save24.png) !important;}
+.Search24{background-image:url(../img/icon_24/Search24.png) !important;}
+.btnok{background-image:url(../img/icon_24/btnok.gif) !important;}
+.eraser24{background-image:url(../img/icon_24/eraser24.png) !important;}
+
+.x-action-col-icon {
+    cursor: pointer;
+    height: 24px;
+    width: 24px;
+}
